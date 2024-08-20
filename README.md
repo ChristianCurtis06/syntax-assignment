@@ -1,1 +1,1 @@
-This repository includes the assignment: Python Syntax in Module 2: Lesson 1 of the Software Engineering Core
+This repository includes the assignment: Python Syntax in Module 2: Lesson 1 of the Software Engineering Core.
